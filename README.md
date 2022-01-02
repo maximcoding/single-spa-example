@@ -1,4 +1,4 @@
-# [single spa](https://single-spa.js.org/) example repo
+# Getting Started with [single spa](https://single-spa.js.org/)
 
 [root-config](https://github.com/maximcoding/single-spa-root-config) -  Project registers all listed bellow web applications
 [shared-app](https://github.com/maximcoding/single-spa-shared-app) ( include global styleguides , api , and common logic )
