@@ -1,0 +1,12 @@
+[submodule "angular-app"]
+	path = angular-app
+	url = https://github.com/maximcoding/single-spa-angular-app.git
+[submodule "auth-app"]
+	path = auth-app
+	url = https://github.com/maximcoding/single-spa-auth-app.git
+[submodule "layout-app"]
+	path = layout-app
+	url = https://github.com/maximcoding/single-spa-layout-app.git
+[submodule "react-app"]
+	path = react-app
+	url = https://github.com/maximcoding/single-spa-react-app.git
