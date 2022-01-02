@@ -1,6 +1,6 @@
 # single-spa-example
 
-1. [root-config](https://github.com/maximcoding/single-spa-root-config) - root project
+1. [root-config](https://github.com/maximcoding/single-spa-root-config) - root project registers all listed bellow web applications
 3. [shared-app](https://github.com/maximcoding/single-spa-shared-app) ( include global styleguides , api , and common logic )
 4. [auth-app](https://github.com/maximcoding/single-spa-auth-app) ( angular 12 + material design - login page)
 5. [layout-app](https://github.com/maximcoding/single-spa-auth-app) ( angular 12 + material design - includes navbar)
