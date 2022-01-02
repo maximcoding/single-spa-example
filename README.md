@@ -1,6 +1,6 @@
 # single-spa-example
 
-1. root-config
+1. root-config[#https://github.com/maximcoding/single-spa-root-config]
 2. shared-app ( include global styleguides , api , and common logic )
 3. auth-app ( login page )
 4. layout-app ( includes navbar as shared)
